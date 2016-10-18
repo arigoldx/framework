@@ -1,0 +1,27 @@
+= Getting Started
+
+You're here for potentially three reasons.
+
+Maybe you want to build a applicatoin using the
+http://seventhings.liftweb.net/[most robust framework] around.
+
+Maybe, 'cause http:www.elemica.com[more] and
+http://foursquare.com/[more] http://vibe.novell.com/[companies] use
+it, you got a job and need to learn Lift. (NB. The author's path.)
+
+Maybe you're just curious.
+
+== Setting Up Your Environment
+
+=== Installing Lift
+
+=== Coding
+
+== Brief Description Of How Lift Works
+
+Lift is different than many other web frameworks. Different in many ways.
+
+== Directory Structure
+
+
+
