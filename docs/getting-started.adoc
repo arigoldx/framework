@@ -2,10 +2,10 @@
 
 You're here for potentially three reasons.
 
-Maybe you want to build a applicatoin using the
+Maybe you want to build an application using the
 http://seventhings.liftweb.net/[most robust framework] around.
 
-Maybe, 'cause http:www.elemica.com[more] and
+Maybe, 'cause http://www.elemica.com/[more] and
 http://foursquare.com/[more] http://vibe.novell.com/[companies] use
 it, you got a job and need to learn Lift. (NB. The author's path.)
 
